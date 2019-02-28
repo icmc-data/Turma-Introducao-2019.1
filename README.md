@@ -1,2 +1,2 @@
-# 2019_DATA_introduction_1sem
-Repository for all things related to the 2019 classes on introduction to data science
+# Turma Introdução 2019.1
+Repositório onde serão disponibilizados os materiais da turma
