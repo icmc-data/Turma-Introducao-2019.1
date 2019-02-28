@@ -12,6 +12,6 @@ A grande maioria dos código serão em ***python 3*** então além do próprio p
  - numpy
  - pandas
  - scikit learn
-
+ - matplotlib
  
  
