@@ -14,4 +14,6 @@ A grande maioria dos código serão em ***python 3*** então além do próprio p
  - scikit learn
  - matplotlib
  
- 
+## Recomendações
+
+Ver links [nessa apresentação](https://docs.google.com/presentation/d/1mcnRXBxEJa7ksIzCyASgMCEz3jML5sEdSQJpqdWdIvo)
