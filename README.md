@@ -17,6 +17,8 @@ A grande maioria dos código serão em ***python 3*** então além do próprio p
  - pandas
  - scikit learn
  - matplotlib
+
+Recomendações fortemente o ambiente [jupyter notebook](https://jupyter.org/install) para Data Science.
  
 ## Recomendações
 
