@@ -1,5 +1,6 @@
 
 
+
 # Repositório turma introdução
 Esse repositório serve para a divulgação dos materiais que mostramos durante as aulas
 
@@ -10,6 +11,7 @@ Aula 01 - Introdução á data science e KNN ([códigos](https://github.com/icmc
 
 Aula 02 - Python e Numpy ([python](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula02/python-tutorial.ipynb)) ([numpy](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula02/numpy-tutorial.ipynb)) ([knn com numpy](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula02/KNN.ipynb)) ([exercícios para práticar](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula02/exercicios_python_numpy.ipynb)) ([exercícios de K-nn](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula02/KNN_licao.ipynb))
 
+Aula 03  - Pandas e visualização ([pandas](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula03/pandas.ipynb)) ([visualização](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula03/visualizacao.ipynb))
 
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
