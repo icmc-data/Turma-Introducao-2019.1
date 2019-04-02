@@ -14,6 +14,8 @@ Aula 02 - Python e Numpy ([python](https://github.com/icmc-data/Turma-Introducao
 
 Aula 03  - Pandas e visualização ([pandas](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula03/pandas.ipynb)) ([visualização](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula03/visualizacao.ipynb))
 
+Aula 04  - Árvores de Decisão e Pipeline básico ([slides](https://docs.google.com/presentation/d/e/2PACX-1vRkok72LUjKbKiaIkIFwLCfLiWexVab7H3QFKQ7UhZOeHTNylJBtSb9txFk5EEPyvjBTHipDUQN3Zl9/pub?start=false&loop=false&delayms=60000)) ([Pipeline feito em aula](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula04/pipeline_in_class.ipynb))
+
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
 
