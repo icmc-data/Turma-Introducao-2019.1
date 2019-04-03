@@ -1,4 +1,4 @@
-
+This repository contains class lectures, slides, demos and exercised for the 2019 ML/DS introduction class given by the extracurricular group DATA. Except all information onwards to be in Portuguese.
 
 
 
