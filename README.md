@@ -1,3 +1,4 @@
+
 This repository contains class lectures, slides, demos and exercised for the 2019 ML/DS introduction class given by the extracurricular group DATA. Except all information onwards to be in Portuguese.
 
 
@@ -15,6 +16,8 @@ Aula 02 - Python e Numpy ([python](https://github.com/icmc-data/Turma-Introducao
 Aula 03  - Pandas e visualização ([pandas](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula03/pandas.ipynb)) ([visualização](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula03/visualizacao.ipynb))
 
 Aula 04  - Árvores de Decisão e Pipeline básico ([slides](https://docs.google.com/presentation/d/e/2PACX-1vRkok72LUjKbKiaIkIFwLCfLiWexVab7H3QFKQ7UhZOeHTNylJBtSb9txFk5EEPyvjBTHipDUQN3Zl9/pub?start=false&loop=false&delayms=60000)) ([Pipeline feito em aula](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula04/pipeline_in_class.ipynb))
+
+Aula 05 - Pré-processamento e Validação ([slides](https://docs.google.com/presentation/d/e/2PACX-1vQlfPr49TUwrbYNEE0ASsadHIbO69MrCPtGVN8Y-Rr_tfZT3jvsPomFQRsLa_9Z7wDtIWnsJsX2vHuV/pub?start=false&loop=false&delayms=3000)) ([feature encoding](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula05/feature-encoding.ipynb)) ([feature scaling](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula05/feature-scaling.ipynb))
 
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
