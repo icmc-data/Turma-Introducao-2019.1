@@ -19,6 +19,9 @@ Aula 04  - Árvores de Decisão e Pipeline básico ([slides](https://docs.google
 
 Aula 05 - Pré-processamento e Validação ([slides](https://docs.google.com/presentation/d/e/2PACX-1vQlfPr49TUwrbYNEE0ASsadHIbO69MrCPtGVN8Y-Rr_tfZT3jvsPomFQRsLa_9Z7wDtIWnsJsX2vHuV/pub?start=false&loop=false&delayms=3000)) ([feature encoding](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula05/feature-encoding.ipynb)) ([feature scaling](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula05/feature-scaling.ipynb))
 
+Aula 06 - Regressão Linear ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSdAAE0PE8amNMTJN44PGffPLkRIZNl4D-XRZ7cyxwsdW62LK6XabsbaHLy4CVlNzqhX_YtXHX1DduU/pub?start=false&loop=false&delayms=60000) [competição](https://bit.ly/2Z2psbV)) 
+
+
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
 
