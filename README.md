@@ -22,6 +22,9 @@ Aula 05 - Pré-processamento e Validação ([slides](https://docs.google.com/pre
 Aula 06 - Regressão Linear ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSdAAE0PE8amNMTJN44PGffPLkRIZNl4D-XRZ7cyxwsdW62LK6XabsbaHLy4CVlNzqhX_YtXHX1DduU/pub?start=false&loop=false&delayms=60000) [competição](https://bit.ly/2Z2psbV)) 
 
 
+Aula 07 - Competição e Regressão Logística ([slides](https://docs.google.com/presentation/d/e/2PACX-1vT-4iPChAbfSMhyCpIKDCRNb7mGUALrm4uUv8bkVGBoZnQUL1BgJyCD117rLKMmuO_t7sk5JqTM7kxZ/pub?start=false&loop=false&delayms=60000) [competição](https://bit.ly/2Z2psbV)) 
+
+
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
 
