@@ -6,6 +6,10 @@ This repository contains class lectures, slides, demos and exercised for the 201
 # Repositório turma introdução
 Esse repositório serve para a divulgação dos materiais que mostramos durante as aulas
 
+## Material Recomendado
+
+Fizermos no fim de 2018 uma lista de [_resources_ de DS](https://docs.google.com/presentation/d/1mcnRXBxEJa7ksIzCyASgMCEz3jML5sEdSQJpqdWdIvo/edit?usp=sharing), desde um nível introdútorio até um mais avançado.
+
 
 ## Aulas
 
