@@ -28,7 +28,7 @@ Aula 06 - Regressão Linear ([slides](https://docs.google.com/presentation/d/e/2
 
 Aula 07 - Competição e Regressão Logística ([slides](https://docs.google.com/presentation/d/e/2PACX-1vT-4iPChAbfSMhyCpIKDCRNb7mGUALrm4uUv8bkVGBoZnQUL1BgJyCD117rLKMmuO_t7sk5JqTM7kxZ/pub?start=false&loop=false&delayms=60000) [competição](https://bit.ly/2Z2psbV))
 
-Aula 08 - Pandas avançado ([notebook](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula08/Pandas_lvl_2.ipynb) [exercícios](https://forms.gle/SE5pNjG7ffT6Tt33A)).
+Aula 08 - Pandas avançado ([notebook](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula08/Pandas_lvl_2.ipynb)) ([exercícios](https://forms.gle/SE5pNjG7ffT6Tt33A)).
 
 
 ## O que devo ter instalado?
