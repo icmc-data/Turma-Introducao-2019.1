@@ -31,6 +31,9 @@ Aula 07 - Competição e Regressão Logística ([slides](https://docs.google.com
 Aula 08 - Pandas avançado ([notebook](https://github.com/icmc-data/Turma-Introducao-2019.1/blob/master/Aula08/Pandas_lvl_2.ipynb)) ([exercícios](https://forms.gle/SE5pNjG7ffT6Tt33A)).
 
 
+Aula 09 - SVM ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSiDOSz0xI-pZjIyox0JiEHONxx0dmZXapxsz1Iu1KCNXq9XlNCOPweWtoLZ07QUNLIjk2jap13Ds-4/pub?start=false&loop=false&delayms=60000)).
+
+
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
 
