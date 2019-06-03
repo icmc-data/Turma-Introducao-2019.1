@@ -34,6 +34,8 @@ Aula 08 - Pandas avançado ([notebook](https://github.com/icmc-data/Turma-Introd
 Aula 09 - SVM ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSiDOSz0xI-pZjIyox0JiEHONxx0dmZXapxsz1Iu1KCNXq9XlNCOPweWtoLZ07QUNLIjk2jap13Ds-4/pub?start=false&loop=false&delayms=60000)).
 
 
+Aula 10 - Redes Neurais ([slides](https://docs.google.com/presentation/d/e/2PACX-1vRdNO6U_r4SSJgNL4JQNRLYfPgMFk19sDIJfLrbQKtnHaT0jGx31N6i58YqK1IHd_uCk3wkGOMqN3yt/pub?start=false&loop=false&delayms=60000)).
+
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
 
