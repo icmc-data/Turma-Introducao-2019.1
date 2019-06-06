@@ -36,6 +36,15 @@ Aula 09 - SVM ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSiDOSz0
 
 Aula 10 - Redes Neurais ([slides](https://docs.google.com/presentation/d/e/2PACX-1vRdNO6U_r4SSJgNL4JQNRLYfPgMFk19sDIJfLrbQKtnHaT0jGx31N6i58YqK1IHd_uCk3wkGOMqN3yt/pub?start=false&loop=false&delayms=60000)).
 
+Aula 11 - Mini tópicos:
+
+- Regularização e ruído([slides](https://docs.google.com/presentation/d/e/2PACX-1vRW2N6Ibl6xpLd8Dlt_2RDaAT3VkJnoSiUE4SRDZYUHr6sczBuEtyCT55Y3gL002VkP5s3LvGq6rkrR/pub?start=false&loop=false&delayms=60000)).
+
+- Interpretabilidade([slides](https://docs.google.com/presentation/d/e/2PACX-1vRYoh_EQhBiOu18SmK5AqtrM9sgfPVsXe-3rL8F0fInFitN8Lx-ZInzViPOJ2D7Q5_7OgcMMaFVyCqB/pub?start=false&loop=false&delayms=60000)).
+
+- Clustering([slides](https://docs.google.com/presentation/d/e/2PACX-1vTejr3Y0zNejvn0O6cWjQA1N_AKQYe8hI8uFvJF0qbYmEgkkV_OBH3TJQ1d6B2EBJZ1EDTpZNDJgX35/pub?start=false&loop=false&delayms=60000)).
+
+
 ## O que devo ter instalado?
 A grande maioria dos código serão em ***python 3*** então além do próprio python serão necessárias as seguintes bibliotecas (com o tempo mais coisas serão adicionadas):
 
