@@ -1,3 +1,5 @@
+# UPDATE: Existe uma versão nova das nossas aulas! Acessar [AQUI](https://github.com/icmc-data/Intro-DS-2020.1) para a nova versão.
+
 
 This repository contains class lectures, slides, demos and exercised for the 2019 ML/DS introduction class given by the extracurricular group DATA. Except all information onwards to be in Portuguese.
 
